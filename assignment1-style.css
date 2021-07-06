@@ -1,0 +1,125 @@
+body{
+    font-family:sans-serif;
+    }
+h1{
+    font-size:50px;
+    weight:700px;
+    }
+.h1-orange{
+    color:blue;
+    }
+.purple{
+    color:purple;
+    }
+.top-button{
+    text-decoration:none;
+    color:white;
+    background-color:blue;
+    padding:7px 16px;
+    border-radius:8px;
+    }
+p{
+   color:grey;
+   line-height:2rem;
+   }
+
+.section1{
+    display:flex;
+    background-image:url(image/top-bg.jpg);
+    background-repeat:no repeat;
+    background-size: cover;
+    padding-top:6%;
+    padding-bottom:4%;
+    }
+.top-banner{
+    width:50%;
+    padding-left:5%;
+    }
+.img{
+    height:350px;
+    width:400px;
+    margin-left:50px;
+    }
+.section2{
+    display:flex;
+    background-image:url(image/mid-bg.jpg);
+    background-repeat:no repeat;
+    background-size: cover;
+    padding-top:6%;
+    }
+.mid-banner{
+    width:50%;
+    }
+.mid-img{
+    margin-left:50px;
+    }
+
+.mid-button{
+    text-decoration:none;
+    color:white;
+    background-color:purple;
+    padding:7px 16px;
+    border-radius:8px;
+    }
+
+.section3{
+    text-align:center;
+    }
+.h1-recipies{
+    font-size:40px;
+    }
+
+
+.section4{
+    display:flex;
+    margin-top:7rem;
+    margin-bottom:7rem;
+
+    }
+
+.flex-img{
+    height:300px;
+    width:250;
+    }
+.food-image{
+    width:30%;
+    padding:20px;
+    margin-left:2%;
+    margin-right:2%;
+    margin-bottom:50px;
+    box-shadow:10px 10px 20px 10px grey;
+    border-radius:10px;
+    }
+
+.section5{
+    display:flex;
+    box-shadow:5px 5px 10px 5px grey;
+    margin:5%;
+    border-radius:15px;
+    }
+.optional{
+    width:33%;
+    padding-left:10%;
+    padding-right:10%;
+    }
+
+
+.footer-style{
+    text-align:center;
+    background-color:cyan;
+    color:black;
+    padding-top:2.5%;
+    padding-bottom:2.5%;
+    border-radius:20px;
+    }
+.footer-img{
+    height:50px;
+    width:50px;
+    margin-right:10px;
+    margin-left:10px;
+    }
+.footer-style p{
+    color:black;
+    }
+.footer-style h2{
+    font-size:30px}
